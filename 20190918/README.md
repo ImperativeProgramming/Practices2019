@@ -2,7 +2,7 @@
 
 September 18th 2019
 
-Today's class is inspired in Professor Zoltán Porkoláb material also available [HERE](http://gsd.web.elte.hu/lectures/c-en/c-lecture-1/).
+Today's class is inspired in Professor Zoltán Porkoláb material also available [HERE](http://gsd.web.elte.hu/lectures/c-en/c-lecture-1/). We also will have lots of things coming from GeeksForGeeks tutorials, feel free to go further looking their content [HERE](https://www.geeksforgeeks.org/c-programming-language/)
 
 
 ## Can I install the IDE now?
@@ -16,10 +16,21 @@ We won't have IDEs during this course, the reason is simple, if you can program 
 
 * The main method
 * How to compile
+* [Variables and Keywords](https://www.geeksforgeeks.org/variables-and-keywords-in-c/)
+
 
 ## Compile?  
 ![WAIT WHAT?](https://media.giphy.com/media/RLWwOuPbqObupogOLB/giphy.gif)
 
+* What is it?
+* How to do it?
+
+### TASK
+Now that you can do lots of cool things, store your name and age in two variables and print them out
+
+## Let's Create our first loop and iterate over some Variables
+* Convert Fahrenheit to Celsius Algorithm
+* Make a cool algorithm that prints out a Fibonacci series
 
 
 <!-- Today's class we will cover:

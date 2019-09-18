@@ -57,6 +57,10 @@ Extra points from classes are possible only for the exercises' grade, (e.g. pull
   * **But I arrived super late in the semester** Once again, send it to the lecturer, this information will be verified with the university administration and the course team will decide each case.
   * **But I was about to sign the presence sheet then I got distracted by a gnome that was passing by the classroom, passed the sheet on and forgot to sign it by the end of the class even though it was there all the time.** Really? OMG! Fortunately you can have 3 absences.
 
+## No Babysitting
+![No Babysitting](https://media.giphy.com/media/R4Ya5bltZiVnG/giphy.gif)
+You are the responsible for your exercises and your learning, if that's not happening, you are the one who needs to seek for help
+
 
 ## Copies, plagiarism and similars
 Cheating exams or copying other's people work without the appropriate reference will fail you. For such cases there is no second exam chance, no retake, no whatever. In case of a copied exam, both students fail.

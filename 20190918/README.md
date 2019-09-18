@@ -4,6 +4,37 @@ September 18th 2019
 
 Today's class is inspired in Professor Zoltán Porkoláb material also available [HERE](http://gsd.web.elte.hu/lectures/c-en/c-lecture-1/). We also will have lots of things coming from GeeksForGeeks tutorials, feel free to go further looking their content [HERE](https://www.geeksforgeeks.org/c-programming-language/)
 
+## Cheatsheet for navigating on the command lines:
+
+### Windows:
+
+    # To navigate forward
+    CD [FOLDER_NAME]
+
+    # To navigate back
+    CD..
+
+    # Clean the screen
+    CLR     
+
+    # Show the current directory
+    DIR
+
+
+### Linux/Mac:
+
+    # To navigate forward
+    CD [FOLDER_NAME]
+
+    # To navigate back
+    CD ..
+
+    # Clean the screen
+    clear
+
+    # Show the current directory
+    ls
+
 
 ## Can I install the IDE now?
 ![Nope](https://media.giphy.com/media/1iTI7wQfPEJu1wjK/giphy.gif)

@@ -79,5 +79,5 @@ Create a function that reads the first name, a second function that reads the fa
 
 
 ### Homework
- - Sort the numbers of Task 1
+ - Print the sum of the numbers of Task 1
  - Fix the task 2 as instructed by the teacher

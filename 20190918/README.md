@@ -15,7 +15,7 @@ Today's class is inspired in Professor Zoltán Porkoláb material also available
     CD..
 
     # Clean the screen
-    CLR     
+    CLS     
 
     # Show the current directory
     DIR

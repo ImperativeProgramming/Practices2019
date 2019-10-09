@@ -17,4 +17,4 @@ So, today some exercises will have grades, others will not, this isn't the exerc
 * If you didn't finish, CHILL, we will find a way for you to finish it
 * You can use your own computer
 
-The assignment is at: [http://hackerrank.com/imperativeprogramming](http://hackerrank.com/imperativeprogramming)
+The assignment is at: [https://www.hackerrank.com/imperative-programming](https://www.hackerrank.com/imperative-programming)

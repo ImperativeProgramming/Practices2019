@@ -24,7 +24,19 @@ You're always strongly invited to request consultation, but please send an e-mai
 Our classes go from the 16th September until the 13th of December
 
 * We have Autumn break from the 28th of October until the 1st of November
-* **Exam dates will be here in bold as soon as we have them**
+## EXAM DATES
+![Fainting](https://media.giphy.com/media/4OowbIsmYHbpu/giphy.gif)
+
+Exam dates:
+- Dec 20, 13-16
+- Jan 6, 9-12
+
+Retakes:
+- Jan 17, 13-16
+- Jan 24, 13-16
+
+Place: Lovarda room (big lab, ground floor), students may be realocated but in any case, everybody meets at Lovarda Room.
+
 
 ## Evaluation Method
 * Only final grade can be rounded up or down
@@ -58,7 +70,9 @@ Extra points from classes are possible only for the exercises' grade, (e.g. pull
   * **But I was about to sign the presence sheet then I got distracted by a gnome that was passing by the classroom, passed the sheet on and forgot to sign it by the end of the class even though it was there all the time.** Really? OMG! Fortunately you can have 3 absences.
 
 ## No Babysitting
+
 ![No Babysitting](https://media.giphy.com/media/R4Ya5bltZiVnG/giphy.gif)
+
 You are the responsible for your exercises and your learning, if that's not happening, you are the one who needs to seek for help
 
 

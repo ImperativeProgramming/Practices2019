@@ -126,4 +126,4 @@ Example Linked List (attached)
 
 ### Homework
  - Implement a list with 5 struct People (linked_list.c).
- - Sort the 5 struct people (change their internal links)
+ - Sort the 5 struct people by year of birth (change their internal links)

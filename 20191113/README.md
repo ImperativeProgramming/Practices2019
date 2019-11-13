@@ -38,3 +38,8 @@
 
         printf("i = %d\n",i);
     }
+
+# Homework
+
+* Create a program (using C duh) that prints out in a file, the first 20 numbers of the Fibonacci Series
+* Create a second software that reads from a file integer numbers (line by line) and prints on the screen it's successor (e.g. 5 becomes 6, 10 becomes 11 and so on)

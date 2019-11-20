@@ -48,13 +48,15 @@ Let's create our first database, a very simple one to store a list of people, we
 
 Let's do it step by step
 
-* Create a struct **person** with two Strings, **name** and **familyname**
+* Create a struct **person** with two Strings, **name** and **familyname**;
 
-* Create an array **people** that stores the previously created struct of **person**, separated by pipes "|"
+* Create an array **people** that stores the previously created struct of **person**, create it as a global variable;
 
-* Create a function that prints all the people in **people** array into a file
+* Create a function that prints all the people in **people** array into a file separated by pipes "|";
 
-* Create a function that reads the file and feeds into the array
+* Create a function that reads the file and feeds into the array;
+
+* Create a function that checks if a first name exists inside the file, this function should take two strings as parameters, the name of the file and the name to be searched. It should return an integer (zero or 1);
 
 *IMPORTANT*
 We know, the size of the array can vary, the amount of people and so on, for now, let's assess it the way we can, and, later on when everything is working you do the checks and manage the exceptions that may happen :)

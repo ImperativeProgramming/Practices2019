@@ -50,7 +50,7 @@ Let's do it step by step
 
 * Create a struct **person** with two Strings, **name** and **familyname**;
 
-* Create an array **people** that stores the previously created struct of **person**, create it as a global variable;
+* Create an array **people** that stores the previously created struct of **person**;
 
 * Create a function that prints all the people in **people** array into a file separated by pipes "|";
 

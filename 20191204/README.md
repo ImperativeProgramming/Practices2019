@@ -49,7 +49,7 @@ You as a Santa helper, are responsible to make this software run according to hi
 
 Santa is not sure about the guidelines for implementing, but he left some tips:
 
-- In order to read the list of names, create a function that gets a pointer as paramenter and read the names from the file to the array;
+- Read the names from the file into an array; 
 
 - Using bubble sort, sort the names in reverse order;
 
